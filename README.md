@@ -51,7 +51,7 @@ I'm a CompSci student from Bandung Institute of Technology who is interested in 
 
 ## My Github Stats
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gedearyarp&count_private=true&show_icons=true&include_all_commits=true)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedearyarp&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gedearyarp.gedearyarp)
 
