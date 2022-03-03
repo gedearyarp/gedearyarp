@@ -1,6 +1,6 @@
 # Glad to see you here! 👋
 
-I'm a CompSci student from Bandung Institute of Technology who is interested in backend engineering, cloud computing, and engineering management. I'm also highly-enthusiastic about competitive programming and have a several achievements such as Honorable Mention International Collegiate Programming Contest and IEEEXtreme 15.0. For more info about my competitive programming, please check my codefeorces account [here](https://codeforces.com/profile/gdryrp).
+I'm a CompSci student from Bandung Institute of Technology who is interested in backend engineering, cloud computing, and engineering management. I'm also highly-enthusiastic about competitive programming and have a several achievements such as Honorable Mention International Collegiate Programming Contest and Top 2% IEEEXtreme 15.0. For more info about my competitive programming, please check my codefeorces account [here](https://codeforces.com/profile/gdryrp).
 
 # ⚡ Technologies
 
