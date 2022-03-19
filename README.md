@@ -49,14 +49,14 @@ I'm a CompSci student from Bandung Institute of Technology who is interested in 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-## My Github Stats
+# My Github Stats & Social Media
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gedearyarp&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedearyarp&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gedearyarp.gedearyarp)
 
 
-## Social Media
+
 <div>
   <p align = "center">
 <a href="https://www.linkedin.com/in/gedearyarp/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
