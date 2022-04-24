@@ -2,7 +2,7 @@
 
 I'm a CompSci student from Bandung Institute of Technology who is interested in backend engineering, cloud computing, and engineering management. I'm also highly-enthusiastic about competitive programming and have a several achievements such as Honorable Mention International Collegiate Programming Contest and Top 2% IEEEXtreme 15.0. For more info about my competitive programming, please check my codefeorces account [here](https://codeforces.com/profile/gdryrp).
 
-# Experiences
+# 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
 | Software Engineer Intern | [Mekari](https://mekari.com/) | Jan 2022 - Present|
@@ -56,7 +56,7 @@ I'm a CompSci student from Bandung Institute of Technology who is interested in 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 
-# My Github Stats & Social Media
+# 📊 My Github Stats & Social Media
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gedearyarp&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gedearyarp&hide=TeX&layout=compact)
 
