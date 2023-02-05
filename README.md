@@ -5,7 +5,8 @@ I'm a CompSci student from Bandung Institute of Technology who is interested in 
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Software Engineer Intern | [Pintarnya](https://pintarnya.com/) | May 2022 - Present |
+| Software Engineer (Part-Time) | [Xendit](https://xendit.co/) | Aug 2022 - Present |
+| Software Engineer Intern | [Pintarnya](https://pintarnya.com/) | May 2022 - Aug 2022 |
 | Software Engineer Intern | [Mekari](https://mekari.com/) | Jan 2022 - Jul 2022 |
 | Software Engineer Intern | [Xendit](https://www.xendit.co/) | Oct 2021 - Jan 2022 |
 | SDE Intern | [Sayurbox](https://www.sayurbox.com/) | Jul 2021 - Oct 2021 |
