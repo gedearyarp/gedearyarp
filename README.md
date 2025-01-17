@@ -5,7 +5,8 @@ I'm a CompSci student from Bandung Institute of Technology who is interested in 
 # 🏢 Experiences
 | Roles | Company | Duration |
 | --- | --- | --- |
-| Software Engineer | [Grab](https://grab.com/) | Mar 2024 - Present |
+| Software Engineer | [Amazon](https://www.amazon.jobs/content/en/our-workplace/working-at-amazon) | Jan 2025 - Present |
+| Software Engineer | [Grab](https://grab.com/) | Mar 2024 - Dec 2024 |
 | Software Engineer | [Xendit](https://xendit.co/) | Sep 2023 - Feb 2024 |
 | Software Engineer (Part-Time) | [Xendit](https://xendit.co/) | Aug 2022 - Sep 2023 |
 | Software Engineer Intern | [Pintarnya](https://pintarnya.com/) | May 2022 - Aug 2022 |
