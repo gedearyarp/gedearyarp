@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Gede Arya 👨‍💻</h1>
 <p align="center">
-  <i>Software Engineer @ Amazon · Competitive Programmer · Tech Bro Abroad</i>
+  <i>Software Engineer @ Amazon · Competitive Programmer · Tech Bro</i>
 </p>
 
 <p align="center">
