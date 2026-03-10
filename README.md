@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00ADD8&height=200&section=header&text=Gede%20Arya%20Pradhana&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20Amazon&descSize=20&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00ADD8&height=200&section=header&text=Gede%20Arya&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%40%20Amazon&descSize=20&descAlignY=58&animation=fadeIn" />
 
 </div>
 
@@ -40,7 +40,7 @@ type Engineer struct {
 
 func main() {
     me := Engineer{
-        Name:      "Gede Arya Pradhana",
+        Name:      "I Gede Arya Raditya Parameswara",
         Role:      "Software Engineer",
         Company:   "Amazon",
         Education: "Computer Science @ ITB",
